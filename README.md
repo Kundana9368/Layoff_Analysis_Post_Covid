@@ -30,4 +30,4 @@ Longitudinal Studies: Conduct longitudinal studies to track the long-term effect
 
 Collaborative Partnerships: Collaborate with industry stakeholders, policymakers, and academic researchers to leverage collective expertise and address pressing issues related to employee layoffs.
 
-<p>Check out the Tableau Vizualization here: [kundana.mandapaka](https://public.tableau.com/app/profile/kundana.mandapaka/viz/LayoffAnalysisAroundTheWorldPostCovid/Dashboard1)</p>
+Check out the Tableau Vizualization here: [kundana.mandapaka](https://public.tableau.com/app/profile/kundana.mandapaka/vizzes)
